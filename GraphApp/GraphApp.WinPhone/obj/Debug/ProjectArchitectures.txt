@@ -1,0 +1,2 @@
+D:\XamarinExercisesGitHub\GraphApp\GraphApp\GraphApp.WinPhone\GraphApp.WinPhone.csproj;neutral
+D:\XamarinExercisesGitHub\GraphApp\GraphApp\GraphApp\GraphApp.csproj;neutral
